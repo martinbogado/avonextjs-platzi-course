@@ -33,4 +33,4 @@ type TAPIAvoResponse = {
   error?: string
 }
 
-export { TProduct }
+export { TProduct, TProductId }
